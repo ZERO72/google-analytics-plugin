@@ -7,6 +7,7 @@ This plugin has been optimised for Cordova Appgyver Android builds. It fixes thi
 ```bash
 Expected fetched plugin to have ID "com.google.playservices@19.0.0" but got "com.google.playservices".
 ```
+=======================
 
 Cordova (PhoneGap) 3.0+ Plugin to connect to Google's native Universal Analytics SDK 3.0
 
